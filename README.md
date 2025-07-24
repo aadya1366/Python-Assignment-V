@@ -10,3 +10,10 @@ This repository contains Python scripts for Task 1 and Task 2
 - Extracts the first five elements.
 - Reverses the extracted list.
 - Prints both the original slice and the reversed version.
+  
+🔄 How to Run
+Open Thonny IDE.
+Use File → Open to load task1.py or task2.py.
+Press F5 or click Run to execute the script.
+👩‍💻 Author
+Created by Aadya 💫
