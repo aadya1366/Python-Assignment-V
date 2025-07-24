@@ -1,0 +1,20 @@
+Program:
+
+dict={'Alice':85,'Bob':75,'Diana':65,'Aadya':99.75}
+a=input("Enter student's name: ")
+if a in dict:
+  print(f"{a}'s marks:{dict[a]}")
+else:
+  print("Student not found")
+
+Output:
+(If Student's name is there)
+
+Enter student's name: Alice
+Alice's marks:85
+
+Output:
+(If Student's name is not there)
+
+Enter student's name: John
+Student not found
